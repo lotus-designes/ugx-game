@@ -15,7 +15,7 @@ html{
 }
 
 .header{
-    background: url("/images/page-heading-bg.jpg");
+    background: url("../images/page-heading-bg.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -56,7 +56,7 @@ ul li a:active {
   }
 
 .landing-page{
-    background: url("/images/page-heading-bg.jpg");
+    background: url("../images/page-heading-bg.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -182,7 +182,7 @@ ul li a:active {
 
 
 .footer{
-    background: url("/images/footer-bg.jpg");
+    background: url("../images/footer-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
