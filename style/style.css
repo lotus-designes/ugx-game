@@ -61,7 +61,7 @@ body{
 
 .landing-page{
     /* background-color: #0171f9; */
-    background: url("/images/page-heading-bg.jpg");
+    background: url("../images/page-heading-bg.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
